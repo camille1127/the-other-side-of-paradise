@@ -56,3 +56,5 @@
 - 无幻觉：满分。
 
 > 实际计分维度可由调用方依质检需要自行扩展（如拆分"法律依据/观点/事实/风险/案例/程序"六维分别计分）。
+
+refactor: move file into references folder
